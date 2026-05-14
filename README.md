@@ -2,5 +2,5 @@
 
 BubbleEngine is a HTML/CSS/JS python browser built from PyQtWebEngine and it aims as much as possible to be as fast as possible while also having a ***minimal*** ram footprint.
 
-<a href="https://www.magnific.com">BubbleEngine logo designed
+<a href="https://[www.magnific.com](http://www.freepik.com)">BubbleEngine logo designed
 by macrovector - Magnific.com</a>
